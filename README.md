@@ -189,6 +189,4 @@ This is a semester project demonstrating modern web development practices with:
 
 This project is for educational purposes.
 
----
-
-Built with ❤️ using modern web technologies for comprehensive DevOps monitoring.
+Built using modern web technologies for comprehensive DevOps monitoring.
